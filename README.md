@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Tode 👋
 
-<!--
-**Tode-IT/Tode-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an IT professional currently focused on **Cloud, M365, and Automation**. I spend my days troubleshooting Windows environments and my nights learning how to script away the repetitive parts of the job.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm working with:
+* **PowerShell** – Automating M365 and Active Directory tasks.
+* **M365 & Azure** – Managing users, licenses, and cloud infrastructure.
+* **Continuous Learning** – Currently studying for Microsoft certifications 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project:
+Check out my **[PowerShell Toolbox](https://github.com/Tode-IT/Tode-IT-Toolbox)** where I keep my daily support scripts and snippets.
+
+---
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/tode-despotoski-3193a1214/)
