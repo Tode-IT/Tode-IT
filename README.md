@@ -11,4 +11,4 @@ I'm an IT professional currently focused on **Cloud, M365, and Automation**. I s
 Check out my **[PowerShell Toolbox](https://github.com/Tode-IT/Tode-IT-Toolbox)** where I keep my daily support scripts and snippets.
 
 ---
-📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/tode-despotoski-3193a1214/)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/tode-despotoski-3193a3214/)
